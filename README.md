@@ -3,6 +3,7 @@ developpement digital
 groupe: devowfs205
 Question 1 :
 partie 1 :
+
 **1. Projet :**
 Un projet est une activité qu’on réalise pour atteindre un objectif précis. Il a un début et une fin.
 
